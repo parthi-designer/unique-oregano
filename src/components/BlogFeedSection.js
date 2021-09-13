@@ -49,14 +49,7 @@ export default class BlogFeedSection extends React.Component {
             		)}
                 </div>
                 
-                <div className={classNames('container', 'container--medium', 'mb-5', {'text-center': align_x === 'center', 'text-right': align_x === 'right'})}>
-            		{_.get(section, 'subtitle', null) && (
-            		<div className="section__subtitle">{_.get(section, 'subtitle', null)}</div>
-            		)}
-            		{_.get(section, 'title', null) && (
-            		<h2 className="section__title mt-0">{_.get(section, 'title', null)}</h2>
-            		)}
-            	</div>
+                
             	)}
             	<div className="container">
             		<div className="grid">
