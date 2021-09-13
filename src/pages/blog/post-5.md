@@ -12,7 +12,7 @@ excerpt: >-
   Setting realistic expectations for yourself and your colleagues, putting down
   your phone for 30 minutes a day, and the "no cellphone in bed" rule  — what's
   the best way to get to Zen?
-thumb_image: images/logo-huge.svg
+thumb_image: images/post-3.jpg
 thumb_image_alt: Post 5 placeholder image
 image: images/post-1.jpg
 image_alt: Post 5 placeholder image
